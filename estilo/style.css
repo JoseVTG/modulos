@@ -54,7 +54,7 @@ section {
 
 @media (max-width: 500px) {
     section {
-        font-size: small;
+        font-size: 0.90em;
     }
 }
 
